@@ -1,0 +1,13 @@
+{
+	"dependencies": {
+		"body-parser": "",
+		"compression": "^1.6.2",
+		"connect-timeout": "^1.9.0",
+		"cookie-parse": "",
+		"cookie-parser": "",
+		"cookie-session": "",
+		"express": "",
+		"serve-index": "",
+		"serve-static": ""
+	}
+}
